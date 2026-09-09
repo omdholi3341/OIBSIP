@@ -33,7 +33,9 @@ The analysis helps identify patterns in transaction data and evaluates machine l
 - Improve model performance using appropriate evaluation metrics.
 
 ## Dataset
-The dataset used for this project is not included in this repository because of its file size.
+
+The dataset used for this project was obtained from Kaggle.
+The dataset is not included in this repository because of GitHub file size limitations.
 
 ## Author
 Om Vinayak Dholi
